@@ -1,7 +1,7 @@
 # 제 5회 Future Finance A.I. Challenge
 
 ![image](https://github.com/Eastha0526/KB_RANG/assets/110336043/0f2dae24-68ab-4f8b-a791-b57a654bd5a2)
-- http://kbdatory.com/notice/view
+- http://kbdatory.com/
 - 주관 기관 KB 국민은행
 - 프로젝트 기간 : 23.07.21 ~ 23.08.20
 - 목적 : 금융업 전반에서 인공지능 기술을 활용한 문제개선 및 가치 창출
