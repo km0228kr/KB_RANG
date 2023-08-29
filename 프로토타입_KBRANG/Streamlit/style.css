@@ -1,0 +1,12 @@
+/*header style*/
+
+header.css-uc1cuc.ezrtsby2 {
+    background-color: #eee6c4; /*#ffcc04*/
+}
+
+/*check & info*/
+@media (max-width: 640px) {
+    .css-keje6w {
+        min-width: calc(50% - 1rem);
+        }
+}
