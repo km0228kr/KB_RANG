@@ -1,5 +1,6 @@
 # 제 5회 Future Finance A.I. Challenge
 
+![image](https://github.com/Eastha0526/KB_RANG/assets/110336043/0f2dae24-68ab-4f8b-a791-b57a654bd5a2)
 - http://kbdatory.com/notice/view
 - 주관 기관 KB 국민은행
 - 프로젝트 기간 : 23.07.21 ~ 23.08.20
@@ -13,7 +14,7 @@
 
 ### 프로토타입 실행 방법
 
-> cd KBRANG_prototype > cd Streamlit > streamlit run main.py
+> cd 프로토타입_KBRANG > cd Streamlit > streamlit run main.py
 ---
 # 팀 차동민
 
