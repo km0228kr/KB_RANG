@@ -274,7 +274,7 @@ class FeedForwardEmbedNN(nn.Module):
 
 ### 참고 문헌 및 레퍼런스
 
-- He, Xiangnan, Liao, Lizi, Zhang, Hanwang, Nie, Liqiang, Hu, Xia and Chua, Tat-Seng. "Neural Collaborative Filtering.." Paper presented at the meeting of the WWW, 2017.
+- He, Xiangnan, Liao, Lizi, Zhang, Hanwang, Nie, Liqiang, Hu, Xia and Chua, Tat-Seng. "Neural Collaborative Filtering.." Paper presented at the meeting of the WWW, 2017. https://arxiv.org/abs/1708.05031
 - 남빛하늘, “이창권號 국민카드, ‘KB페이’ 1000만 고객 확보 비결”, 인사이트코리아, 2023.07.14., http://www.insightkorea.co.kr/news/articleView.html?idxno=114835
 - 박기록, "KB국민은행 , 명실상부한 '1위 종합금융플랫폼' 회사가 될 수 있을까", 디지털데일리, 2023.07.28., https://m.ddaily.co.kr/page/view/2023072716575852088
 - 에너지경제신문, “신한금융, 비금융 앱 많이 찾는다…MAU 400만명 눈앞”, 에너지경제, 2023.05.01., https://m.ekn.kr/view.php?key=20230428010007595
